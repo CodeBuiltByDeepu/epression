@@ -20,3 +20,4 @@ We learned a lot about working s a team throughout this hackathon as we were tog
 Expanding Epression to more than just a few media sites is the goal. In addition, incorporating sources for those depressed to get help on our app is another feature we would like to add.
 
 .tech domain www.epression.tech
+# Deepu Agawal
